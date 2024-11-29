@@ -1,4 +1,4 @@
-#UAS Paradigma Berorientasi Objek
+# UAS Paradigma Berorientasi Objek
 
 Nama: Dhafin Rizky Trisandy ||
 Kelas: SIBIL 3A ||
